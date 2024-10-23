@@ -1,6 +1,6 @@
 {
   "name": "@expa/stylelint-order",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Stylelint configuration for sorting CSS properties.",
   "homepage": "https://github.com/nikolai-shabalin/stylelint-order",
   "bugs": "https://github.com/nikolai-shabalin/stylelint-order/issues",

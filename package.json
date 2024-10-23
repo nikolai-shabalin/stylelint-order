@@ -22,5 +22,8 @@
   "dependencies": {
     "stylelint": "16.10.0",
     "stylelint-order": "6.0.4"
+  },
+  "peerDependencies": {
+    "stylelint": ">=16"
   }
 }

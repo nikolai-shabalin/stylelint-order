@@ -1,0 +1,26 @@
+{
+  "name": "stylelint-order",
+  "version": "1.0.0",
+  "description": "A Stylelint configuration for sorting CSS properties.",
+  "homepage": "https://github.com/nikolai-shabalin/stylelint-order",
+  "bugs": "https://github.com/nikolai-shabalin/stylelint-order/issues",
+  "repository": "nikolai-shabalin/stylelint-order",
+  "keywords": [
+    "stylelint",
+    "stylelint-order",
+    "config"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "lint:css": "stylelint fixture/style.css --config index.js"
+  },
+  "author": {
+    "name": "Nikolai Shabalin",
+    "email": "dev.nikolai.shabalin@gmail.com"
+  },
+  "type": "module",
+  "dependencies": {
+    "stylelint": "16.10.0",
+    "stylelint-order": "6.0.4"
+  }
+}

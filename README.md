@@ -1,1 +1,2 @@
-# stylelint-order
+# Custom stylelint-config for order CSS-properties
+

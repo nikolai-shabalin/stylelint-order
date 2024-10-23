@@ -1,5 +1,5 @@
 {
-  "name": "stylelint-order",
+  "name": "@expa/stylelint-order",
   "version": "1.0.0",
   "description": "A Stylelint configuration for sorting CSS properties.",
   "homepage": "https://github.com/nikolai-shabalin/stylelint-order",

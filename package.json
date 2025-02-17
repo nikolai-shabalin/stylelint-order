@@ -12,7 +12,7 @@
   ],
   "main": "index.js",
   "scripts": {
-    "lint:css": "stylelint fixture/style.css --config index.js"
+    "lint:css": "stylelint fixture/style.css --config index.js --fix"
   },
   "author": {
     "name": "Nikolai Shabalin",
@@ -20,10 +20,9 @@
   },
   "type": "module",
   "dependencies": {
-    "stylelint": "16.10.0",
     "stylelint-order": "6.0.4"
   },
-  "peerDependencies": {
-    "stylelint": ">=16"
+  "devDependencies": {
+    "stylelint": "16.14.1"
   }
 }
